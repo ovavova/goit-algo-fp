@@ -142,7 +142,7 @@ if __name__ == '__main__':
     linked_reverse.print_list()
     print("-" * vidst)
 
-    print(f"\n {vidst * '*-'} Сортування списку {vidst * '\*-'}")
+    print(f"{vidst * '*-'} Сортування списку {vidst * '*-'}")
     linked_sort = LinkedList()
     for num in rnd_list: 
         linked_sort.append(num)
