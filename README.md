@@ -20,18 +20,6 @@
 ``` Dijkstra from 'Akademmistechko':
 - Shortest travel time to 'Teremky': 48 minutes
 - Path: ['Akademmistechko', 'Zhytomyrska', 'Sviatoshyn', 'Nyvky', 'Beresteiska', 'Shuliavska', 'Politekhnichnyi Instytut', 'Vokzalna', 'Universytet', 'Teatralna', 'Khreshchatyk', 'Maidan Nezalezhnosti', 'Ploshcha Ukrainskykh Heroiv', 'Olimpiiska', "Palats 'Ukraina'", 'Lybidska', 'Demiivska', 'Holosiivska', 'Vasylkivska', 'Vystavkovyi Tsentr', 'Ipodrom', 'Teremky']
-
-Top-10 nearest stations (by time):
-  Akademmistechko              -> 0
-  Zhytomyrska                  -> 2
-  Sviatoshyn                   -> 4
-  Nyvky                        -> 6
-  Beresteiska                  -> 8
-  Shuliavska                   -> 10
-  Politekhnichnyi Instytut     -> 12
-  Vokzalna                     -> 15
-  Universytet                  -> 17
-  Teatralna                    -> 19
   ```
 
 # Завдання 4. Візуалізація піраміди
@@ -58,6 +46,8 @@ Top-10 nearest stations (by time):
 
 Для реалізації алгоритму динамічного програмування створіть функцію dynamic_programming, яка обчислює оптимальний набір страв для максимізації калорійності при заданому бюджеті.
 
+# Результат 
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/77164f8e-4e71-49a0-a0a3-eb8acba32361" />
 
 # Завдання 7. Використання методу Монте-Карло
 Необхідно написати програму на Python, яка імітує велику кількість кидків кубиків, обчислює суми чисел, які випадають на кубиках, і визначає ймовірність кожної можливої суми.
@@ -70,3 +60,5 @@ Top-10 nearest stations (by time):
 
 Порівняйте отримані за допомогою методу Монте-Карло результати з аналітичними розрахунками, наведеними в таблиці вище.
 
+# Результат 
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/363c7d06-812e-4fae-96c8-16a6d1304400" />
