@@ -17,6 +17,23 @@
 # Результат 
 <img width="1400" height="1000" alt="Image" src="https://github.com/user-attachments/assets/41702bff-1c72-4f84-a22d-3ced9a39bd95" />
 
+``` Dijkstra from 'Akademmistechko':
+- Shortest travel time to 'Teremky': 48 minutes
+- Path: ['Akademmistechko', 'Zhytomyrska', 'Sviatoshyn', 'Nyvky', 'Beresteiska', 'Shuliavska', 'Politekhnichnyi Instytut', 'Vokzalna', 'Universytet', 'Teatralna', 'Khreshchatyk', 'Maidan Nezalezhnosti', 'Ploshcha Ukrainskykh Heroiv', 'Olimpiiska', "Palats 'Ukraina'", 'Lybidska', 'Demiivska', 'Holosiivska', 'Vasylkivska', 'Vystavkovyi Tsentr', 'Ipodrom', 'Teremky']
+
+Top-10 nearest stations (by time):
+  Akademmistechko              -> 0
+  Zhytomyrska                  -> 2
+  Sviatoshyn                   -> 4
+  Nyvky                        -> 6
+  Beresteiska                  -> 8
+  Shuliavska                   -> 10
+  Politekhnichnyi Instytut     -> 12
+  Vokzalna                     -> 15
+  Universytet                  -> 17
+  Teatralna                    -> 19
+  ```
+
 # Завдання 4. Візуалізація піраміди
 # Результат 
 <img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/d8754a23-4c24-4984-a926-8cce4e8e7b64" />
