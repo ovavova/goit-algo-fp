@@ -129,8 +129,8 @@ if __name__ == '__main__':
 
     print(f" {vidst*"*-"} Реверсування списку {vidst*"-*"}")
     linked_reverse = LinkedList()
-    for int in rnd_list:
-        linked_reverse.append(int)
+    for num in rnd_list:
+        linked_reverse.append(num)
  
     
     print("Початковий список:")
@@ -142,10 +142,10 @@ if __name__ == '__main__':
     linked_reverse.print_list()
     print("-" * vidst)
 
-    print(f"\n{vidst*"*-"} Сортування списку {vidst*"*-"}")
+    print(f"\n {vidst * '*-'} Сортування списку {vidst * '\*-'}")
     linked_sort = LinkedList()
-    for int in rnd_list: 
-        linked_sort.append(int)
+    for num in rnd_list: 
+        linked_sort.append(num)
 
 
     print("Несортований список:")
@@ -156,7 +156,7 @@ if __name__ == '__main__':
     linked_sort.print_list()
     print("-" * 25)
 
-    print(f"\n{vidst*"*-"} Об'єднання двох відсортованих списків {vidst*"-*"}")
+    print(f"\n {vidst * "*-"} Об'єднання двох відсортованих списків {vidst * "-*"}")
     list1 = LinkedList()
     list1.append(60)
     list1.append(90)
